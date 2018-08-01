@@ -1,0 +1,65 @@
+{
+  "ret":"true",
+  "data":{
+    "swiperList":[{
+        "id":"0001",
+        "imgUrl":"http://imgs.qunarzz.com/p/tts0/1807/6a/fbc036af8043b02.jpg_262x238_bb11eed8.jpg"
+        },{
+        "id":"0002",
+        "imgUrl":"http://imgs.qunarzz.com/p/tts9/1807/a0/c5339aa98c0c8502.jpg_256x144_6943f0ae.jpg"
+      }],
+    "iconList":[{
+      "id":"0001",
+      "imgUrl":"http://imgs.qunarzz.com/p/tts7/1807/97/1d618b2eae459702.jpg_256x144_97121c82.jpg",
+      "desc":"舒适宾馆"
+    },{
+      "id":"0002",
+      "imgUrl":"http://imgs.qunarzz.com/p/tts7/1807/97/1d618b2eae459702.jpg_256x144_97121c82.jpg",
+      "desc":"舒适宾馆"
+    },{
+      "id":"0003",
+      "imgUrl":"http://imgs.qunarzz.com/p/tts7/1807/97/1d618b2eae459702.jpg_256x144_97121c82.jpg",
+      "desc":"舒适宾馆"
+    },{
+      "id":"0008",
+      "imgUrl":"http://imgs.qunarzz.com/p/tts7/1807/97/1d618b2eae459702.jpg_256x144_97121c82.jpg",
+      "desc":"舒适宾馆"
+    },{
+      "id":"0004",
+      "imgUrl":"http://imgs.qunarzz.com/p/tts7/1807/97/1d618b2eae459702.jpg_256x144_97121c82.jpg",
+      "desc":"舒适宾馆"
+    },{
+      "id":"0005",
+      "imgUrl":"http://imgs.qunarzz.com/p/tts7/1807/97/1d618b2eae459702.jpg_256x144_97121c82.jpg",
+      "desc":"舒适宾馆"
+    },{
+      "id":"0006",
+      "imgUrl":"http://imgs.qunarzz.com/p/tts7/1807/97/1d618b2eae459702.jpg_256x144_97121c82.jpg",
+      "desc":"舒适宾馆"
+    },{
+      "id":"0007",
+      "imgUrl":"http://imgs.qunarzz.com/p/tts7/1807/97/1d618b2eae459702.jpg_256x144_97121c82.jpg",
+      "desc":"舒适宾馆"
+    },{
+      "id":"0009",
+      "imgUrl":"http://imgs.qunarzz.com/p/tts7/1807/97/1d618b2eae459702.jpg_256x144_97121c82.jpg",
+      "desc":"舒适宾馆"
+    }],
+    "recommendList":[{
+      "id":"001",
+      "imgUrl":"http://imgs.qunarzz.com/p/tts0/1807/6a/fbc036af8043b02.jpg_262x238_bb11eed8.jpg",
+      "title":"大家快点接啊覅i额度",
+      "info":"打卡打卡  发 发 发发发人人发的酷酷酷"
+    },{
+      "id":"002",
+      "imgUrl":"http://imgs.qunarzz.com/p/tts0/1807/6a/fbc036af8043b02.jpg_262x238_bb11eed8.jpg",
+      "title":"大家快点接啊覅i额度",
+      "info":"打卡打卡  发 发 发发发人人发的酷酷酷"
+    },{
+      "id":"003",
+      "imgUrl":"http://imgs.qunarzz.com/p/tts0/1807/6a/fbc036af8043b02.jpg_262x238_bb11eed8.jpg",
+      "title":"大家快点接啊覅i额度",
+      "info":"打卡打卡  发 发 发发发人人发的酷酷酷"
+    }]
+  }
+}
